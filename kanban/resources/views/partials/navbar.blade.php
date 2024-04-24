@@ -1,6 +1,6 @@
 <div class="flex flex-row justify-between items-center">
     <div class="font-bold text-lg">
-        <h1>Task-app</h1>
+        <h1>x-app</h1>
     </div>
     <ul class="flex flex-row items-center mb-3 md:mb-0">
         <li class="md:mr-5"><a href="#" class="hover:text-gray-400">Mon compte</a>
